@@ -1,0 +1,36 @@
+#swell-data {
+    display: table;
+}
+.msw-widget {
+  margin: 0 auto;
+  display: table-cell;
+  vertical-align: middle;
+  padding: 15px;
+  text-align: left;
+}
+
+#swell-data span {
+    font-weight: bold;
+}
+#swell-data p {
+    margin: 0px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.cap-text {
+    font-size: 33px;
+    margin: 0;
+    color: white;
+}
+
+.small-cap-text {
+    font-size: 18px;
+    margin: 0;
+}
+
+#swell-data img {
+  position: relative;
+    top: 2px;
+    margin-right: 5px;
+}
